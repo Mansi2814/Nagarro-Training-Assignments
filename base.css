@@ -1,0 +1,26 @@
+#gallery_section{
+    display: none;
+    margin: 2% 2% 2% 2%;
+}
+
+@keyframes upDownTransition {
+    0%{}
+    50%{
+        transform: scale(150%, 150%);
+    }
+    100%{}
+  }
+
+#gallery_btn{
+    margin: 1% 1% 1% 1%;
+    background-color: blanchedalmond;
+    border-radius: 30%;
+    border: 1% solid rebeccapurple;
+    font-size: 20px;
+    box-shadow: 2%;
+    animation-name: upDownTransition;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+
+

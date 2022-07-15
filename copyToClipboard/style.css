@@ -1,0 +1,26 @@
+body{
+    height: 100vh;
+    background: turquoise
+}
+h1
+{
+    text-align: center;
+    color:green;
+    margin-top: 1rem;
+}
+.one,.two,.three
+{
+    text-align: center;
+}
+.one,.three{
+    margin-top: 2rem;
+}
+.one textarea{
+    padding: 1rem;
+}
+.three textarea{
+    padding: 1rem;
+}
+.two{
+    margin-top: 1.5rem;
+}

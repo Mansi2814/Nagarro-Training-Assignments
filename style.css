@@ -1,3 +1,14 @@
-.icon{
-    width: 5px;
+body{
+    background-color: bisque;
+}
+
+table{
+    border: 1px sandybrown solid;
+}
+
+th, td{
+    border: 1px sandybrown solid;
+    text-align: center;
+    padding: 0.5em 0.5em 0.5em 0.5em;
+    font-size: 22px;
 }

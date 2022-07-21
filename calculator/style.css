@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 1.1rem;
+  }
+  
+  body {
+    background-color: turquoise
+  }
+
+  .container {
+    width: 350px;
+    margin-top: 50px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: black;
+  }
+  
+  .screen {
+    height: 75px;
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+    border: none;
+    background-color: white;
+    border-radius: 5px;
+    font-size: 2rem;
+  }
+  
+  input[type="button"] {
+    font-size: 2rem;
+    width: 75px;
+    height: 75px;
+    margin: 2px;
+    border-radius: 10px;
+    background-color: yellow;
+  }

@@ -1,0 +1,11 @@
+*{
+    background-color: turquoise;
+}
+
+body{
+    background-color: green;
+}
+
+.card{
+    margin: 15% 20% 20% 40%;
+}
